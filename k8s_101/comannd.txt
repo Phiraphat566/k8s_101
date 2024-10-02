@@ -1,0 +1,6 @@
+kubectl get all 
+
+kubectl get pods
+
+kubectl apply -f .
+รันทุกไฟล์
